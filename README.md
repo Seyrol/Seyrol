@@ -3,8 +3,8 @@ Junior программист с опытом работы более 1 года
 
 
 ### Key points
-*   создатель [Скоро](https://github.com/Seyrol) and [Скоро выложу](https://github.com/Seyrol) organizations.
-*   мой телеграм [Seyrol](https://t.me/Seyrol) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   создатель [Регистрация пользовтеля (Framework Laminas)](https://github.com/Seyrol)
+*   мой телеграм [Seyrol](https://t.me/Seyrol) 
 *   Пишите по разработке сайтов (beckend , fronted)
 *   Работаю в [Пока что нигде](https://github.com/Seyrol)
 
@@ -12,3 +12,12 @@ Junior программист с опытом работы более 1 года
 *   PHP/Laminas
 *   PostgreSQL, MongoDB
 *   Laminas Framework(ZEND3)
+
+## 🛠 Fronted
+* Html/CSS
+* Верстка
+* Адаптив
+
+## 🛠 Beckend
+* Language : PHP
+* Framework: Laminas
