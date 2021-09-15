@@ -13,7 +13,7 @@ Junior программист с опытом работы более 1 года
 *   Laminas Framework(ZEND3)
 
 ## 🛠 Project's
-* Регистрация пользователя [signup](https://t.me/Seyrol) 
+* Регистрация пользователя [мой проект](https://github.com/Seyrol/gitRegistration) 
 
 ## 🛠 Fronted
 * Html/CSS
