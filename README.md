@@ -2,8 +2,8 @@
 Junior программист с опытом работы более 1 года. У меня отличные знания в области бэкэнд-разработки на PHP.
 
 
-### Key points
-*   создатель [Регистрация пользователя (Framework Laminas)](https://github.com/Seyrol/gitRegistration)
+### Contacts
+*   почта: alekseycoders@gmail.com
 *   мой телеграм [Seyrol](https://t.me/Seyrol) 
 *   Пишите по разработке сайтов (beckend , fronted)
 
@@ -11,6 +11,9 @@ Junior программист с опытом работы более 1 года
 *   PHP/Laminas
 *   PostgreSQL, MongoDB
 *   Laminas Framework(ZEND3)
+
+## 🛠 Project's
+* Регистрация пользователя [signup](https://t.me/Seyrol) 
 
 ## 🛠 Fronted
 * Html/CSS
