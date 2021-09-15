@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Seyrol
-- 👀 I’m interested in PHP , Framework "Laminas"
-- 🌱 in the future I would like to learn JavaScript
+- 👀 I am writing on PHP and Framework "Laminas"
+- 🌱 in the future I would like to learn JavaScript and Python
 - 📫 You can contact me by mail "alekseycoders@gmail.com"
 
 <!---
