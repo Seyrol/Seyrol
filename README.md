@@ -3,10 +3,10 @@ Junior программист с опытом работы более 1 года
 
 
 ### Key points
-*   creator of [Soon](https://github.com/Seyrol) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [Seyrol](https://t.me/Seyrol) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Nowhere](soon)
+*   создатель [Скоро](https://github.com/Seyrol) and [Template Repository](https://github.com/template-repository) organizations.
+*   мой телеграм [Seyrol](https://t.me/Seyrol) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   Пишите по разработке сайтов (beckend , fronted)
+*   Работаю в [Пока что нигде](soon)
 
 ## 🛠 Technical Stack
 *   PHP/Laminas
