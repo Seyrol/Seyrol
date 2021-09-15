@@ -3,7 +3,7 @@ Junior программист с опытом работы более 1 года
 
 
 ### Key points
-*   создатель [Регистрация пользовтеля (Framework Laminas)](https://github.com/Seyrol)
+*   создатель [Регистрация пользователя (Framework Laminas)](https://github.com/Seyrol)
 *   мой телеграм [Seyrol](https://t.me/Seyrol) 
 *   Пишите по разработке сайтов (beckend , fronted)
 *   Работаю в [Пока что нигде](https://github.com/Seyrol)
