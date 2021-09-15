@@ -1,25 +1,5 @@
 # Hi, I'm Aleksey 👋
-Junior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on PHP.
-In general worked with monolitic, microservice and serverless arthitectures.
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/romankh3/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:alekseycoders@gmail.com'>alekseycoders@gmail.com</a>
-</p>
+Junior программист с опытом работы более 1 гожа. У меня отличные знания в области бэкэнд-разработки на PHP.
 
 
 ### Key points
